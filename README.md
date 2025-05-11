@@ -1,3 +1,5 @@
+---
+
 # Singularity Health - Prueba Técnica Backend
 
 Este proyecto es parte de una prueba técnica para la posición de **Desarrollador Backend** en **Singularity Health**. El objetivo es construir una API usando **GraphQL** y **Sequelize** para registrar usuarios con validación de datos, manejo de relaciones entre tablas y prevención de duplicados, todo persistido en una base de datos **MySQL**.
@@ -5,6 +7,8 @@ Este proyecto es parte de una prueba técnica para la posición de **Desarrollad
 A continuación, se muestra el diagrama entidad-relación que representa los modelos requeridos para esta prueba técnica. Este servirá como base para estructurar la base de datos y definir las asociaciones en Sequelize.
 
 ![Modelos de la base de datos](./assets/modelos-db.png)
+
+---
 
 ## 🧠 Descripción General
 
